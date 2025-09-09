@@ -32,6 +32,22 @@ This setup enables centralized authentication, authorization, and resource manag
 i. Click on **"Manage,"** then select **"Add Roles and Features."**
 <img width="1033" height="773" alt="1" src="https://github.com/user-attachments/assets/ee749ab1-5334-40aa-b01d-cf962c36d181" />
 
+## (2) Go to "Server Roles," then select and install "Active Directory Domain Services (AD DS)."
+<img width="1024" height="557" alt="2" src="https://github.com/user-attachments/assets/3bfa56cb-3580-4334-acc8-d04cfe669b56" />
+
+<img width="783" height="588" alt="3" src="https://github.com/user-attachments/assets/8ea9fffe-4cec-4532-9543-547c3e685129" />
+
+**iii. Go to the "Confirmation" section and click "Install."**
+<img width="1018" height="704" alt="4" src="https://github.com/user-attachments/assets/ef20e3e4-f50b-4dc1-a8c0-2a073f81f7f3" />
+
+**iv. Once the installation is complete, click on "Promote this server to a domain controller."**
+<img width="796" height="570" alt="5" src="https://github.com/user-attachments/assets/33a94ee3-7bbf-45eb-befe-2a73980b4303" />
+
+
+
+
+
+
 
 
 
